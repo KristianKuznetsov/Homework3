@@ -8,5 +8,6 @@ public class Main {
 
 
         System.out.println("Я тучка-тучка-тучка,\n" + "Я вовсе не медведь.");
+        System.out.println("Ах, как приятно тучке\n" + "По небу лететь.");
     }
 }
